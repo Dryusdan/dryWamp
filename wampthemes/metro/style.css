@@ -4,6 +4,7 @@ body{
 header{
     background-color:#333333;
     height: 100px;
+    border-bottom:#f6b600 3px solid;
 }
 header img{
     padding-top: 10px;
