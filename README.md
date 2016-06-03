@@ -17,6 +17,12 @@ Screenshots
 If you want to view a project screenshot, just put a `screenshot.png` image inside your project folder.
 The size of the screenshot image is `250x200`
 
+Disclamer
+-------------
+
+This home page was created on WampServer 3, no verification on WampServer 2 was realized.
+
+
 Enjoy
 -------------
 
