@@ -5,7 +5,7 @@ dryWamp is a `WAMPSERVER` modern home page using flat design concept
 Screenshot
 -------------
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](bigScreenshot.png)
 
 Installation
 -------------
