@@ -277,7 +277,7 @@ if (empty($vhost['alias'])){
                                 ?>
                                 <div class="vhost">
                                     <a href="http://<?php echo $url;?>" >
-                                        <img src="http://lorempicsum.com/simpsons/255/200/2">
+                                        <img src="http://<?php echo $url;?>/screenshot.png" width="255" height="250">
                                         <span><?php echo $url;?></span>
                                     </a>
                                 </div>
@@ -306,7 +306,7 @@ if (empty($vhost['alias'])){
                                 ?>
                                 <div class="vhost">
                                     <a href="http://localhost/<?php echo $url;?>" >
-                                        <img src="http://lorempicsum.com/simpsons/255/200/2">
+                                        <img src="http://localhost/<?php echo $url;?>/screenshot.png" width="255" height="250"> <!-- recommende 255 x 200 -->
                                         <span><?php echo $url;?></span>
                                     </a>
                                 </div>
